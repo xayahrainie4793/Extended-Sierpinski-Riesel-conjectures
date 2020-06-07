@@ -1,3 +1,11 @@
+Sierpinski problem base b: (b>=2)
+
+Finding and proving the smallest k such that gcd(k+1,b-1)=1 and k*b^n+1 is not prime for all integers n>=1.
+
+Riesel problem base b: (b>=2)
+
+Finding and proving the smallest k such that gcd(k-1,b-1)=1 and k*b^n-1 is not prime for all integers n>=1.
+
 Extended Sierpinski problem base b: (b>=2)
 
 Finding and proving the smallest k such that (k*b^n+1)/gcd(k+1,b-1) is not prime for all integers n>=1.
