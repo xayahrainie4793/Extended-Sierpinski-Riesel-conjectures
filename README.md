@@ -1,3 +1,5 @@
+This research is from http://www.noprimeleftbehind.net/crus/Sierp-conjectures.htm and http://www.noprimeleftbehind.net/crus/Riesel-conjectures.htm, extended to the k such that gcd(k+-1,b-1) is not 1.
+
 Sierpinski problem base b: (b>=2)
 
 Finding and proving the smallest k such that gcd(k+1,b-1)=1 and k*b^n+1 is not prime for all integers n>=1.
