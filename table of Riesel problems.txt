@@ -16,12 +16,6 @@ k-values that are a multiple of base (b) and where (k-1)/gcd(k-1,b-1) is not pri
 Such k-values will have the same prime as k / b.
 
 Table
-Colors used
-      proven and all primes are defined primes
-
-      proven but some primes are only probable primes that have not been certified
-
-      unproven
 
 Base
 
