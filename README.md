@@ -27,3 +27,5 @@ See "table of Riesel problems.txt" and "table of Sierpinski problems.txt" for:
 * The k's that make a full covering set with all or partial algebraic factors for each Sierpinski/Riesel base.
 * The remaining k's to find prime for each Sierpinski/Riesel base.
 * The top 10 k's with largest first primes for each Sierpinski/Riesel base.
+
+This project is to solve the Sierpinski/Riesel conjectures for bases b <= 128 and bases b = 256, 512, 1024.
