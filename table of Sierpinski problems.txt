@@ -29,7 +29,7 @@ Remaining k to find prime
 
 (n testing limit)
 
-Top 10 k's with largest first primes: k(n)
+Top 10 k's with largest first primes: k (n)
 
 (only sorted by n)
 
