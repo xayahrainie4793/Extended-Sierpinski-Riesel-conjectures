@@ -15,14 +15,15 @@ Finding and proving the smallest k such that (k*b^n-1)/gcd(k-1,b-1) is not prime
 With this effort, we aim to prove many of the Riesel and Sierpinski conjectures for bases <= 1030 that are not currently being worked on by other projects or efforts.
 
 Project definition:
+
 For every base (b) for the forms (k*b^n+1)/gcd(k+1,b-1) and (k*b^n-1)/gcd(k-1,b-1), there exists a unique value of k for each form that has been conjectured to be the lowest 'Sierpinski value' (+1 form) or 'Riesel value' (-1 form) that is composite for all values of n >= 1.
 
 Goal:
+
 Prove the conjectures by finding at least one (probable) prime (if only PRP, prove its primality) for all lower values of k. Many of the conjectures have already been proven but much more work is needed to prove additional bases. Proving them all is not possible but we aim to prove many of them.
 
-There are many conjectures where only ONE k needs a (probable) prime (and many more that need only two). If you find it, you could be the one to prove a conjecture! This is a big deal to us here.
-
-Algebraic factors have been found for many k's, which prove them composite for all n, allowing them to be removed from searches.
+* There are many conjectures where only ONE k needs a (probable) prime (and many more that need only two). If you find it, you could be the one to prove a conjecture! This is a big deal to us here.
+* Algebraic factors have been found for many k's, which prove them composite for all n, allowing them to be removed from searches.
 
 Notes:
 
