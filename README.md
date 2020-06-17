@@ -1,22 +1,22 @@
 This research is from http://www.noprimeleftbehind.net/crus/Sierp-conjectures.htm and http://www.noprimeleftbehind.net/crus/Riesel-conjectures.htm, extended to the k such that gcd(k+-1,b-1) (+ for Sierpinski, - for Riesel) is not 1.
 
 Sierpinski problem base b:
-Finding and proving the smallest k such that gcd(k+1,b-1)=1 and k*b^n+1 is not prime for all integers n>=1.
+Finding and proving the smallest k such that gcd(k+1,b-1)=1 and k\*b^n+1 is not prime for all integers n>=1.
 
 Riesel problem base b:
-Finding and proving the smallest k such that gcd(k-1,b-1)=1 and k*b^n-1 is not prime for all integers n>=1.
+Finding and proving the smallest k such that gcd(k-1,b-1)=1 and k\*b^n-1 is not prime for all integers n>=1.
 
 Extended Sierpinski problem base b:
-Finding and proving the smallest k such that (k*b^n+1)/gcd(k+1,b-1) is not prime for all integers n>=1.
+Finding and proving the smallest k such that (k\*b^n+1)/gcd(k+1,b-1) is not prime for all integers n>=1.
 
 Extended Riesel problem base b:
-Finding and proving the smallest k such that (k*b^n-1)/gcd(k-1,b-1) is not prime for all integers n>=1.
+Finding and proving the smallest k such that (k\*b^n-1)/gcd(k-1,b-1) is not prime for all integers n>=1.
 
 With this effort, we aim to prove many of the Riesel and Sierpinski conjectures for bases <= 1030 that are not currently being worked on by other projects or efforts.
 
 Project definition:
 
-For every base (b) for the forms (k*b^n+1)/gcd(k+1,b-1) and (k*b^n-1)/gcd(k-1,b-1), there exists a unique value of k for each form that has been conjectured to be the lowest 'Sierpinski value' (+1 form) or 'Riesel value' (-1 form) that is composite for all values of n >= 1.
+For every base (b) for the forms (k\*b^n+1)/gcd(k+1,b-1) and (k\*b^n-1)/gcd(k-1,b-1), there exists a unique value of k for each form that has been conjectured to be the lowest 'Sierpinski value' (+1 form) or 'Riesel value' (-1 form) that is composite for all values of n >= 1.
 
 Goal:
 
