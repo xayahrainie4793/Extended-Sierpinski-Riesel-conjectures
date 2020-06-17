@@ -1,16 +1,16 @@
 This research is from http://www.noprimeleftbehind.net/crus/Sierp-conjectures.htm and http://www.noprimeleftbehind.net/crus/Riesel-conjectures.htm, extended to the k such that gcd(k+-1,b-1) (+ for Sierpinski, - for Riesel) is not 1.
 
-Sierpinski problem base b: (b>=2)
-Finding and proving the smallest k>=1 such that gcd(k+1,b-1)=1 and k*b^n+1 is not prime for all integers n>=1.
+Sierpinski problem base b:
+Finding and proving the smallest k such that gcd(k+1,b-1)=1 and k*b^n+1 is not prime for all integers n>=1.
 
-Riesel problem base b: (b>=2)
-Finding and proving the smallest k>=1 such that gcd(k-1,b-1)=1 and k*b^n-1 is not prime for all integers n>=1.
+Riesel problem base b:
+Finding and proving the smallest k such that gcd(k-1,b-1)=1 and k*b^n-1 is not prime for all integers n>=1.
 
-Extended Sierpinski problem base b: (b>=2)
-Finding and proving the smallest k>=1 such that (k*b^n+1)/gcd(k+1,b-1) is not prime for all integers n>=1.
+Extended Sierpinski problem base b:
+Finding and proving the smallest k such that (k*b^n+1)/gcd(k+1,b-1) is not prime for all integers n>=1.
 
-Extended Riesel problem base b: (b>=2)
-Finding and proving the smallest k>=1 such that (k*b^n-1)/gcd(k-1,b-1) is not prime for all integers n>=1.
+Extended Riesel problem base b:
+Finding and proving the smallest k such that (k*b^n-1)/gcd(k-1,b-1) is not prime for all integers n>=1.
 
 With this effort, we aim to prove many of the Riesel and Sierpinski conjectures for bases <= 1030 that are not currently being worked on by other projects or efforts.
 
