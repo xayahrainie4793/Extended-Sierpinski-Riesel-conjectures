@@ -12,7 +12,7 @@ Finding and proving the smallest k such that (k\*b^n+1)/gcd(k+1,b-1) is not prim
 Extended Riesel problem base b:
 Finding and proving the smallest k such that (k\*b^n-1)/gcd(k-1,b-1) is not prime for all integers n>=1.
 
-With this effort, we aim to prove many of the Riesel and Sierpinski conjectures for bases <= 1030 that are not currently being worked on by other projects or efforts.
+With this effort, we aim to prove many of the Riesel and Sierpinski conjectures for bases <= 128 and bases 256, 512, 1024.
 
 Project definition:
 
@@ -41,4 +41,4 @@ See "table of Riesel problems.txt" and "table of Sierpinski problems.txt" for:
 * The remaining k's to find prime for each Sierpinski/Riesel base.
 * The top 10 k's with largest first primes for each Sierpinski/Riesel base.
 
-This project is to solve the Sierpinski/Riesel conjectures for bases b <= 128 and bases b = 256, 512, 1024.
+This project is to solve the Sierpinski/Riesel conjectures for bases b <= 128 and bases b = 256, 512, 1024. (this project will be extended to bases b <= 2048 in future)
