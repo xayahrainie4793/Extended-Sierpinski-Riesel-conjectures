@@ -2534,7 +2534,9 @@ odd n:
 
 factor of 2
 
-79 (4K)
+none - proven (with probable primes that have not been certified: k = 79)
+
+79 (9339)
 
 101 (2146)
 
@@ -2553,8 +2555,6 @@ factor of 2
 61 (39)
 
 89 (32)
-
-83 (26)
 
 k = 36 proven composite by condition 1.
 
