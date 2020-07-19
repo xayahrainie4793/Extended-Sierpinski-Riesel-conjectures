@@ -31,7 +31,7 @@ Remaining k to find prime
 
 Top 10 k's with largest first primes: k (n)
 
-(only sorted by n)
+(sorted by n only)
 
 Comments
 
