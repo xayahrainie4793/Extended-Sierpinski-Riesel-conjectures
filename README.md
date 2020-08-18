@@ -43,7 +43,7 @@ See "table of Riesel problems.txt" and "table of Sierpinski problems.txt" for:
 
 This project is to solve the Sierpinski/Riesel conjectures for bases b <= 128 and bases b = 256, 512, 1024. (this project will be extended to all bases b <= 1024 in future)
 
-File read as:
+Files read as:
 
 * "k,n": the smallest value n such that (k\*b^n+-1)/gcd(k+-1,b-1) (+ for Sierpinski, - for Riesel) is (probable) prime
 * "k,NA": (k\*b^n+-1)/gcd(k+-1,b-1) (+ for Sierpinski, - for Riesel) possibly has prime, but no (probable) primes of this form are known.
