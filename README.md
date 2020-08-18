@@ -47,4 +47,4 @@ File read as:
 
 * "k,n": the smallest value n such that (k\*b^n+-1)/gcd(k+-1,b-1) (+ for Sierpinski, - for Riesel) is (probable) prime
 * "k,NA": (k\*b^n+-1)/gcd(k+-1,b-1) (+ for Sierpinski, - for Riesel) possibly has prime, but no (probable) primes of this form are known.
-* "k,algebra": (k\*b^n+-1)/gcd(k+-1,b-1) (+ for Sierpinski, - for Riesel) proven to be composite for all n by all or partial algebraic factors.
+* "k,algebra": (k\*b^n+-1)/gcd(k+-1,b-1) (+ for Sierpinski, - for Riesel) proven to be composite for all n, by all or partial algebraic factors.
