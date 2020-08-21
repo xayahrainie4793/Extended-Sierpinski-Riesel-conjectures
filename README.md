@@ -43,6 +43,13 @@ See "table of Riesel problems.txt" and "table of Sierpinski problems.txt" for:
 
 This project is to solve the Sierpinski/Riesel conjectures for bases b <= 128 and bases b = 256, 512, 1024. (this project will be extended to all bases b <= 1024 in future)
 
+This page is for the status for all k's < CK for bases 2 <= b <= 128 and bases b = 256, 512, 1024.
+
+For the k's > CK, see:
+
+* https://github.com/xayahrainie4793/first-4-Sierpinski-Riesel-conjectures: k's < 4th CK for bases 2 <= b <= 64 (except 2, 3, 6, 15, 22, 24, 28, 30, 36, 40, 42, 46, 48, 52, 58, 60, 63 (which have larger conjectured k's)) and bases b = 100, 128, 256, 512, 1024.
+* https://github.com/xayahrainie4793/all-k-1024: k's < 1024 for bases 2 <= b <= 32 and bases b = 64, 256.
+
 Files read as:
 
 * "k,n": the smallest value n such that (k\*b^n+-1)/gcd(k+-1,b-1) (+ for Sierpinski, - for Riesel) is (probable) prime.
