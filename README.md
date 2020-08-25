@@ -48,7 +48,8 @@ This page is for the status for all k's < CK for bases 2 <= b <= 128 and bases b
 For the k's > CK, see:
 
 * https://github.com/xayahrainie4793/first-4-Sierpinski-Riesel-conjectures: k's < 4th CK for bases 2 <= b <= 64 (except 2, 3, 6, 15, 22, 24, 28, 30, 36, 40, 42, 46, 48, 52, 58, 60, 63 (which have larger conjectured k's)) and bases b = 100, 128, 256, 512, 1024.
-* https://github.com/xayahrainie4793/all-k-1024: k's < 1024 for bases 2 <= b <= 32 and bases b = 64, 256.
+* https://github.com/xayahrainie4793/all-k-1024: k's <= 1024 for bases 2 <= b <= 32 and bases b = 64, 256.
+* https://github.com/xayahrainie4793/Sierpinski-Riesel-for-fixed-k-and-variable-base: all bases <= 1024 for fixed k <= 12
 
 Files read as:
 
