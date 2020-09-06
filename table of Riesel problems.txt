@@ -2421,9 +2421,13 @@ k = 4 proven composite by partial algebraic factors.
 13, 29, 71
 
 
-376, 496, 811 (all at n=1K)
+811 (10K)
 
 729 (28625)
+
+376 (6484)
+
+496 (4934)
 
 434 (3820)
 
@@ -2438,10 +2442,6 @@ k = 4 proven composite by partial algebraic factors.
 174 (441)
 
 778 (356)
-
-841 (335)
-
-211 (329)
 
 
 71
