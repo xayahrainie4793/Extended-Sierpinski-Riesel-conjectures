@@ -1831,7 +1831,7 @@ none - proven
 
 66
 
-unknown
+unknown (5M < Conjectured smallest Sierpinski k <= 21314443, equal 21314443 if not == 4 mod 5 or == 12 mod 13)
 
 unknown
 
@@ -3305,7 +3305,7 @@ none - proven
 
 120
 
-unknown
+unknown (5M < Conjectured smallest Sierpinski k <= 374876369, equal 374876369 if not == 6 mod 7 or == 16 mod 17)
 
 unknown
 
