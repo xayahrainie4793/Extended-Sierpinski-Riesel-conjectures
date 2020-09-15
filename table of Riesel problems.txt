@@ -2276,7 +2276,7 @@ none - proven
 
 66
 
-unknown (5M < Conjectured smallest Riesel k <= 101954772, equal 101954772 if not == 1 mod 5 or == 1 mod 13)
+unknown (5M < Conjectured smallest Riesel k <= 101954772, equals 101954772 if neither == 1 mod 5 nor == 1 mod 13)
 
 unknown
 
@@ -4093,7 +4093,7 @@ none - proven
 
 120
 
-unknown (5M < Conjectured smallest Riesel k <= 166616308, equal 166616308 if not == 1 mod 7 or == 1 mod 17)
+unknown (5M < Conjectured smallest Riesel k <= 166616308, equals 166616308 if neither == 1 mod 7 nor == 1 mod 17)
 
 unknown
 
