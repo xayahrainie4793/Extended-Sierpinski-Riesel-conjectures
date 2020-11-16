@@ -45,6 +45,8 @@ This project is to solve the Sierpinski/Riesel conjectures for bases b <= 128 an
 
 This page is for the status for all k's < CK for bases 2 <= b <= 128 and bases b = 256, 512, 1024.
 
+The thread in mersenneforum for this project is https://mersenneforum.org/showthread.php?t=21839&page=99
+
 For the k's > CK, see:
 
 * https://github.com/xayahrainie4793/first-4-Sierpinski-Riesel-conjectures: k's < 4th CK for bases 2 <= b <= 64 (except 2, 3, 6, 15, 22, 24, 28, 30, 36, 40, 42, 46, 48, 52, 58, 60, 63 (which have larger conjectured k's)) and bases b = 100, 128, 256, 512, 1024.
