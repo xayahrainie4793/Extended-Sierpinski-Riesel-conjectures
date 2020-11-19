@@ -2421,7 +2421,7 @@ k = 4 proven composite by partial algebraic factors.
 13, 29, 71
 
 
-811 (37.6K)
+811 (50K)
 
 729 (28625)
 
