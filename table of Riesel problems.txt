@@ -1,10 +1,10 @@
 Riesel problems
 
 Definition
-For the original Riesel problem, it is finding and proving the smallest k such that k×bn-1 is not prime for all integers n ≥ 1 and GCD(k-1, b-1)=1.
+For the original Riesel problem, it is finding and proving the smallest k such that k×b^n-1 is not prime for all integers n ≥ 1 and GCD(k-1, b-1)=1.
 
 Extended definiton
-Finding and proving the smallest k such that (k×bn-1)/GCD(k-1, b-1) is not prime for all integers n ≥ 1.
+Finding and proving the smallest k such that (k×b^n-1)/GCD(k-1, b-1) is not prime for all integers n ≥ 1.
 
 Notes
 All n must be >= 1.
